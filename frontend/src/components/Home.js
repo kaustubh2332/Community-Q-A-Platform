@@ -169,7 +169,7 @@ export default function Home() {
                 <h1 className="mb-3">Website team</h1>
                 <ul>
                     <li><h4 style={{fontFamily: "cursive"}}>Tejal Dattatraya Kulkarni -- cs21btech11058@iith.ac.in</h4></li>
-                    <li><h4 style={{fontFamily: "cursive"}}>Rajapu Jayachandra Naidu -- cs21btech11050@iith.ac.in</h4></li>
+                    <li><h4 style={{fontFamily: "cursive"}}>Gaikwad Kaustubh Nitin -- sm23mtech14003@iith.ac.in</h4></li>
                     <li><h4 style={{fontFamily: "cursive"}}>Bhargava Ram Rajulapati -- cs21btech11052@iith.ac.in</h4></li>
                 </ul>
                 <h4 className="mb-3">Click to Login...</h4>
